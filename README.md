@@ -5,7 +5,7 @@ I am currently working as a Senior Software Engineer at Circle Fintech Ltd. I ha
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akmamun&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/akmamun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmamun&langs_count=8&hide=java,html,css,php" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmamun&langs_count=8&hide=shell,java,html,css,scss,php,vue" />
 </a>
 
 
