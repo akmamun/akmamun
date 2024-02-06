@@ -1,12 +1,7 @@
 **Quick highlights:** <br/>
-
-- Extensive experience in Python, JavaScript and Golang
-- 7+ years of software industry experience across various industries and platforms 
-- Developing applications using microservice architecture, gRPC and event-driven communication
-- Applying SOLID principles and clean architecture in application development
-- Writing thorough Unit and Integration tests to ensure code functionality and reliability
-- Open-source enthusiast
-- Exploring Industries: Machine Learning (Computer Vision and ML Backend), Mobile Finance Service, eCommerce Marketplace, Service Marketplace
+- 8+ years of software industry experience across various industries and platforms.
+- Backend System Design, Microservices Architecture, and Security, Machine Learning Solution and Design (E2E) along with MLOps.
+- Worked in financial sectors involving Mobile Financial Services and Cashless Payments, and non-financial sectors such as E-Commerce and Service Marketplaces, Travel Tech Industries, and AI-based solutions.
   
 **Technology Stacks:** <br/>
 - Language: Python, JavaScript and Golang
@@ -23,8 +18,8 @@
 
 ## Find me around the web 🌎:
 
+- Sharing updates on <a href="https://www.linkedin.com/in/akmamun/">LinkedIn</a>, Writing blogs on <a href="https://medium.com/@akmamun"> Medium </a>
 - Tinkering with interactions on <a href="https://codesandbox.io/u/akmamun"> CodeSandbox</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/akmamun/">LinkedIn</a>
 
 ## Support My Work: Buy Me a Coffee ☕
 <div style="display: flex; justify-content: center;">
